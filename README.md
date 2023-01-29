@@ -17,3 +17,14 @@ I can ensure a higher score by making these changes;
 - Custom controls have associated labels ( as the nav bar needs to be completed!)
 
 <img src="about me/lighthouse 1.png" class="image"/>
+
+**css**
+
+I have added a video that I downloaded and colour edited to use as the landing page of my about me page with a `transparent` navigation bar.
+
+I made my own images for this site by colour matching a duotone palette to the images chosen.
+These images will now be put onto the different sections on the website.
+
+I have created a `scroll-snap` where each section will 'snap' to the top of the page, I think this is a nice feature to have on a site to keep things clear.
+
+Although another video has been added to the page - I am yet to figure out how to see it.
