@@ -8,7 +8,7 @@ while (!user) {
   console.log("Hello " + user);
 }
 // question one
-function question1() {
+myfunc () {
   let location = prompt[("spain", "scotland", "india", "brazil")];
   let correctAnswer = true;
   while (!correctAnswer) {
